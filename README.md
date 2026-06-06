@@ -6,15 +6,15 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Shubham Kumar — ML × Web engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Shubham Kumar — ML × AI" width="100%" />
 </div>
 
 &nbsp;
 
-I build where machine learning meets the web. The part I care about isn't the model — it's the unglamorous 90% around it: the data plumbing, the retraining, and whatever keeps a thing alive in production once the demo is over.
+I build where machine learning meets the real world. The part I care about isn't the model — it's the unglamorous 90% around it: the data plumbing, the retraining, and whatever keeps a thing alive in production once the demo is over.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=161b22"/><img src="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=f0f0f0" alt=""/></picture>
-&nbsp;shipping **ProfitGenAI** &nbsp;·&nbsp; learning real **MLOps** &nbsp;·&nbsp; open to **collaborations**
+&nbsp; learning real **ML/AI** &nbsp;·&nbsp; open to **collaborations**
 
 ---
 
