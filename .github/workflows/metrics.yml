@@ -22,6 +22,10 @@ jobs:
           filename: assets/metrics.svg
           template: classic
 
+          # tolerate the flaky events API that habits/activity depend on
+          retries: 6
+          retries_delay: 300
+
           # dark, on-theme styling
           config_timezone: Asia/Kolkata
           base: header, activity, community, repositories, metadata
@@ -37,7 +41,7 @@ jobs:
 
           # when you actually code
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
