@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Shubham Kumar — ML × AI engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Shubham Kumar — ML × Web engineer" width="100%" />
 </div>
 
 &nbsp;
@@ -14,7 +14,7 @@
 I build where machine learning meets the web. The part I care about isn't the model — it's the unglamorous 90% around it: the data plumbing, the retraining, and whatever keeps a thing alive in production once the demo is over.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=161b22"/><img src="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=f0f0f0" alt=""/></picture>
-&nbsp; learning real **AI/ML** &nbsp;·&nbsp; open to **collaborations**
+&nbsp;shipping **ProfitGenAI** &nbsp;·&nbsp; learning real **MLOps** &nbsp;·&nbsp; open to **collaborations**
 
 ---
 
@@ -24,54 +24,54 @@ I build where machine learning meets the web. The part I care about isn't the mo
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shhubham311/ProfitGenAI"><img src="./social/ProfitGenAI.png" width="100%" alt="ProfitGenAI"/></a>
+
 #### [ProfitGenAI](https://github.com/shhubham311/ProfitGenAI)
-An AI agent that handles e-commerce sales conversations end to end. Mostly a lesson in how much an "AI product" is plumbing and prompt discipline rather than the model.
-<br><br>
-<kbd>Python</kbd> <kbd>LLMs</kbd>
+An AI agent that handles e-commerce sales conversations end to end — a lesson in how much an "AI product" is plumbing and prompt discipline rather than the model. &nbsp;<kbd>Python</kbd> <kbd>LLMs</kbd>
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/shhubham311/iot-ids-pipeline"><img src="./social/iot-ids-pipeline.png" width="100%" alt="iot-ids-pipeline"/></a>
 
 #### [iot-ids-pipeline](https://github.com/shhubham311/iot-ids-pipeline)
-An MLOps pipeline that flags network intrusions on IoT devices in real time. Where I learned the model is the easy 10% — the rest is ingestion, retraining, and not breaking in prod.
-<br><br>
-<kbd>MLOps</kbd> <kbd>Jupyter</kbd>
+An MLOps pipeline that flags network intrusions on IoT devices in real time. Where I learned the model is the easy 10% — the rest is ingestion, retraining, and not breaking in prod. &nbsp;<kbd>MLOps</kbd> <kbd>Jupyter</kbd>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<a href="https://github.com/shhubham311/Predictive-Maintenance"><img src="./social/Predictive-Maintenance.png" width="100%" alt="Predictive-Maintenance"/></a>
 
 #### [Predictive-Maintenance](https://github.com/shhubham311/Predictive-Maintenance)
-Predicts industrial equipment failure before it happens. Made me treat the precision/recall tradeoff as a business decision, not a metric to max out.
-<br><br>
-<kbd>Python</kbd> <kbd>ML</kbd>
+Predicts industrial equipment failure before it happens. Made me treat the precision/recall tradeoff as a business decision, not a metric to max out. &nbsp;<kbd>Python</kbd> <kbd>scikit-learn</kbd>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shhubham311/IMDb-Lite"><img src="./social/IMDb-Lite.png" width="100%" alt="IMDb-Lite"/></a>
+
 #### [IMDb-Lite](https://github.com/shhubham311/IMDb-Lite)
-A lightweight IMDb clone for browsing movie details — a React build from when I was nailing down front-end fundamentals.
-<br><br>
-<kbd>React</kbd> <kbd>JavaScript</kbd>
+A lightweight IMDb clone for browsing movie details — a React build from when I was nailing down front-end fundamentals. &nbsp;<kbd>React</kbd> <kbd>JavaScript</kbd>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shhubham311/E-Com"><img src="./social/E-Com.png" width="100%" alt="E-Com"/></a>
+
 #### [E-Com](https://github.com/shhubham311/E-Com)
-A React e-commerce front end. Still proud of how clean the cart logic turned out.
-<br><br>
-<kbd>React</kbd> <kbd>JavaScript</kbd>
+A React e-commerce front end. Still proud of how clean the cart logic turned out. &nbsp;<kbd>React</kbd> <kbd>JavaScript</kbd>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/shhubham311/portfolio_website"><img src="./social/portfolio_website.png" width="100%" alt="portfolio_website"/></a>
+
 #### [portfolio_website](https://github.com/shhubham311/portfolio_website)
-My personal portfolio — the hand-built version of who I am as a developer.
-<br><br>
-<kbd>HTML</kbd> <kbd>CSS</kbd>
+My personal portfolio — the hand-built version of who I am as a developer. &nbsp;<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Python</kbd>
 
 </td>
 </tr>
