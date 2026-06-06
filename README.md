@@ -110,7 +110,7 @@ One sentence on what it does and what you took from it.
 
 ### Toolbox
 
-Python with the usual ML stack — pandas, scikit-learn, PyTorch — on the modeling side. React and plain JS/HTML/CSS on the web side. Docker and Git holding it all together. I'd rather ship one thing end to end than learn five frameworks halfway.
+Python with the usual ML stack — pandas, scikit-learn, PyTorch — on the modeling side. Plain JS/HTML/CSS on the web side. Docker and Git holding it all together. I'd rather ship one thing end to end than learn five frameworks halfway.
 
 ---
 
