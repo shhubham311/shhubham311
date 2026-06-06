@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Shubham Kumar — ML and Web Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Shubham Kumar — ML and AI Engineer">
   <defs>
     <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#7C3AED" stop-opacity="0"/>
@@ -60,10 +60,10 @@
   <rect class="rule" x="64" y="192" width="360" height="3" rx="2" fill="url(#edge)"/>
 
   <!-- role -->
-  <text class="mono" x="64" y="236" font-size="20" fill="#9ca3af">ML <tspan fill="#7C3AED">&#215;</tspan> Web engineer &#8212; building past the demo, into production.</text>
+  <text class="mono" x="64" y="236" font-size="20" fill="#9ca3af">ML <tspan fill="#7C3AED">&#215;</tspan> AI engineer &#8212; building past the demo, into production.</text>
 
   <!-- status + stack -->
   <circle class="pulse" cx="72" cy="284" r="5" fill="#3fb950"/>
   <text class="mono" x="86" y="289" font-size="14" fill="#8b949e">open to collaborations</text>
-  <text class="mono" x="300" y="289" font-size="14" fill="#6e7681">Python &#183; PyTorch &#183; React &#183; MLOps &#183; Docker</text>
+  <text class="mono" x="300" y="289" font-size="14" fill="#6e7681">Python &#183; PyTorch &#183; MLOps &#183; Docker</text>
 </svg>
