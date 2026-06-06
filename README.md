@@ -1,25 +1,20 @@
 <!--
   Profile README · shhubham311
   Repo must be named exactly: shhubham311   |   File: README.md
+  Banner lives at assets/banner.svg · Metrics generated to assets/metrics.svg
   Accent color throughout: #7C3AED
 -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=540&height=38&lines=building+where+ML+meets+the+web;the+model+is+the+easy+10%25;shipping+%3E+collecting+frameworks" alt="" />
-
+  <img src="./assets/banner.svg" alt="Shubham Kumar — ML × AI engineer" width="100%" />
 </div>
 
-<h1>Shubham Kumar</h1>
+&nbsp;
 
-<p>
-ML&nbsp;/&nbsp;AI engineer. I'm most interested in the unglamorous part — the data plumbing, the retraining, the stuff that keeps a model alive in production once the demo is over.
-</p>
+I build where machine learning meets the web. The part I care about isn't the model — it's the unglamorous 90% around it: the data plumbing, the retraining, and whatever keeps a thing alive in production once the demo is over.
 
-<p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=161b22"/><img src="https://img.shields.io/badge/-currently-7C3AED?style=flat-square&labelColor=f0f0f0" alt=""/></picture>
-&nbsp; learning real <b>AI/ML</b> &nbsp;·&nbsp; open to <b>collaborations</b>
-</p>
+&nbsp; learning real **AI/ML** &nbsp;·&nbsp; open to **collaborations**
 
 ---
 
@@ -80,56 +75,31 @@ My personal portfolio — the hand-built version of who I am as a developer.
 
 </td>
 </tr>
-
-<!-- ADD YOUR REMAINING REPOS HERE — copy a <td> block, change the link/text/tags.
-<tr>
-<td width="50%" valign="top">
-
-#### [REPO-NAME](https://github.com/shhubham311/REPO-NAME)
-One sentence on what it does and what you took from it.
-<br><br>
-<kbd>Tag</kbd> <kbd>Tag</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-#### [REPO-NAME](https://github.com/shhubham311/REPO-NAME)
-One sentence on what it does and what you took from it.
-<br><br>
-<kbd>Tag</kbd> <kbd>Tag</kbd>
-
-</td>
-</tr>
--->
-
 </table>
 
 <sub><a href="https://github.com/shhubham311?tab=repositories">→ See all repositories</a></sub>
 
 ---
 
-### Toolbox
+### By the numbers
 
-Python with the usual ML stack — pandas, scikit-learn, PyTorch — on the modeling side. Plain JS/HTML/CSS on the web side. Docker and Git holding it all together. I'd rather ship one thing end to end than learn five frameworks halfway.
+<div align="center">
+  <img src="./assets/metrics.svg" alt="GitHub metrics" width="100%" />
+</div>
 
 ---
 
-### A snapshot
+### Recently shipped
+<!--START_SECTION:activity-->
+<!-- This list is generated automatically by the Recent activity workflow. -->
+<!--END_SECTION:activity-->
 
-<div align="center">
+---
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shhubham311&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=8b949e&include_all_commits=true&count_private=true" alt="" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhubham311&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8b949e&langs_count=8" alt="" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shhubham311/shhubham311/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shhubham311/shhubham311/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/shhubham311/shhubham311/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
-</div>
+### Where my coding time goes
+<!--START_SECTION:waka-->
+<!-- This block is filled in by the WakaTime workflow once data accumulates. -->
+<!--END_SECTION:waka-->
 
 ---
 
