@@ -24,7 +24,7 @@ I build where machine learning meets the web. The part I care about isn't the mo
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/ProfitGenAI"><img src="./social/ProfitGenAI.png" width="100%" alt="ProfitGenAI"/></a>
+<a href="https://github.com/shhubham311/ProfitGenAI"><img src="./assets/ProfitGenAI.png" width="100%" alt="ProfitGenAI"/></a>
 
 #### [ProfitGenAI](https://github.com/shhubham311/ProfitGenAI)
 An AI agent that handles e-commerce sales conversations end to end — a lesson in how much an "AI product" is plumbing and prompt discipline rather than the model. &nbsp;<kbd>Python</kbd> <kbd>LLMs</kbd>
@@ -32,7 +32,7 @@ An AI agent that handles e-commerce sales conversations end to end — a lesson 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/iot-ids-pipeline"><img src="./social/iot-ids-pipeline.png" width="100%" alt="iot-ids-pipeline"/></a>
+<a href="https://github.com/shhubham311/iot-ids-pipeline"><img src="./assets/iot-ids-pipeline.png" width="100%" alt="iot-ids-pipeline"/></a>
 
 #### [iot-ids-pipeline](https://github.com/shhubham311/iot-ids-pipeline)
 An MLOps pipeline that flags network intrusions on IoT devices in real time. Where I learned the model is the easy 10% — the rest is ingestion, retraining, and not breaking in prod. &nbsp;<kbd>MLOps</kbd> <kbd>Jupyter</kbd>
@@ -42,7 +42,7 @@ An MLOps pipeline that flags network intrusions on IoT devices in real time. Whe
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/Predictive-Maintenance"><img src="./social/Predictive-Maintenance.png" width="100%" alt="Predictive-Maintenance"/></a>
+<a href="https://github.com/shhubham311/Predictive-Maintenance"><img src="./assets/Predictive-Maintenance.png" width="100%" alt="Predictive-Maintenance"/></a>
 
 #### [Predictive-Maintenance](https://github.com/shhubham311/Predictive-Maintenance)
 Predicts industrial equipment failure before it happens. Made me treat the precision/recall tradeoff as a business decision, not a metric to max out. &nbsp;<kbd>Python</kbd> <kbd>scikit-learn</kbd>
@@ -50,7 +50,7 @@ Predicts industrial equipment failure before it happens. Made me treat the preci
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/IMDb-Lite"><img src="./social/IMDb-Lite.png" width="100%" alt="IMDb-Lite"/></a>
+<a href="https://github.com/shhubham311/IMDb-Lite"><img src="./assets/IMDb-Lite.png" width="100%" alt="IMDb-Lite"/></a>
 
 #### [IMDb-Lite](https://github.com/shhubham311/IMDb-Lite)
 A lightweight IMDb clone for browsing movie details — a React build from when I was nailing down front-end fundamentals. &nbsp;<kbd>React</kbd> <kbd>JavaScript</kbd>
@@ -60,7 +60,7 @@ A lightweight IMDb clone for browsing movie details — a React build from when 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/E-Com"><img src="./social/E-Com.png" width="100%" alt="E-Com"/></a>
+<a href="https://github.com/shhubham311/E-Com"><img src="./assets/E-Com.png" width="100%" alt="E-Com"/></a>
 
 #### [E-Com](https://github.com/shhubham311/E-Com)
 A React e-commerce front end. Still proud of how clean the cart logic turned out. &nbsp;<kbd>React</kbd> <kbd>JavaScript</kbd>
@@ -68,7 +68,7 @@ A React e-commerce front end. Still proud of how clean the cart logic turned out
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/shhubham311/portfolio_website"><img src="./social/portfolio_website.png" width="100%" alt="portfolio_website"/></a>
+<a href="https://github.com/shhubham311/portfolio_website"><img src="./assets/portfolio_website.png" width="100%" alt="portfolio_website"/></a>
 
 #### [portfolio_website](https://github.com/shhubham311/portfolio_website)
 My personal portfolio — the hand-built version of who I am as a developer. &nbsp;<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>Python</kbd>
