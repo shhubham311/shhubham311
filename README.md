@@ -98,8 +98,6 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -125,13 +123,13 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Fastapi                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,7 +145,7 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 
 
 
- Last Updated on 12/06/2026 20:37:02 UTC
+ Last Updated on 13/06/2026 20:03:28 UTC
 <!--END_SECTION:waka-->
 
 ---
