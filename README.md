@@ -98,6 +98,8 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -145,7 +147,7 @@ Jupyter Notebook         2 repos             █████░░░░░░�
 
 
 
- Last Updated on 13/06/2026 20:03:28 UTC
+ Last Updated on 14/06/2026 20:07:17 UTC
 <!--END_SECTION:waka-->
 
 ---
