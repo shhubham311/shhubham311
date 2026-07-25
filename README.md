@@ -98,6 +98,44 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2027%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+🌆 Daytime                47 commits          ██████████░░░░░░░░░░░░░░░   40.87 % 
+🌃 Evening                67 commits          ███████████████░░░░░░░░░░   58.26 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
+Saturday                 46 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
+Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   21 mins             █████████████░░░░░░░░░░░░   50.33 % 
+Text                     13 mins             ████████░░░░░░░░░░░░░░░░░   31.64 % 
+Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+
+🔥 Editors: 
+VS Code                  42 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+inventory_management     42 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -111,7 +149,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:56:46 UTC
+ Last Updated on 25/07/2026 19:44:26 UTC
 <!--END_SECTION:waka-->
 
 ---
