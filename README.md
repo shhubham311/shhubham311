@@ -125,15 +125,13 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             █████████████░░░░░░░░░░░░   50.33 % 
-Text                     13 mins             ████████░░░░░░░░░░░░░░░░░   31.64 % 
-Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-inventory_management     42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -149,7 +147,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:44:26 UTC
+ Last Updated on 26/07/2026 19:44:50 UTC
 <!--END_SECTION:waka-->
 
 ---
