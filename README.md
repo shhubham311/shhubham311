@@ -98,50 +98,6 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%204%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-🌆 Daytime                47 commits          ██████████░░░░░░░░░░░░░░░   40.87 % 
-🌃 Evening                67 commits          ███████████████░░░░░░░░░░   58.26 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Saturday                 46 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-Sunday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -155,7 +111,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:06:38 UTC
+ Last Updated on 28/07/2026 20:02:42 UTC
 <!--END_SECTION:waka-->
 
 ---
