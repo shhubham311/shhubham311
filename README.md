@@ -98,9 +98,9 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2057%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -127,19 +127,39 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               41 mins             ███████████████████░░░░░░   77.45 % 
+TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                46 mins             ██████████████████████░░░   87.30 % 
+OctaveTune               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 53 mins (100.0%)
+
+✍️ 61 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 988,063 Input Tokens, 9,816 Output Tokens
+
+💵 $4.51 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 18 AI Prompts
+
+Github-Copilot           50 lines            ████████████████████░░░░░   81.97 % 
+GPT                      11 lines            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 611 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -155,7 +175,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 12/08/2026 19:38:55 UTC
+ Last Updated on 13/08/2026 19:35:18 UTC
 <!--END_SECTION:waka-->
 
 ---
