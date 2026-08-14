@@ -98,9 +98,9 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -127,38 +127,43 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               41 mins             ███████████████████░░░░░░   77.45 % 
-TOML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               1 hr 52 mins        ██████████████████████░░░   89.35 % 
+TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████░░░░░░░░░░░░   52.80 % 
+Antigravity Desktop      59 mins             ████████████░░░░░░░░░░░░░   47.20 % 
 
 🐱‍💻 Projects: 
-Downloads                46 mins             ██████████████████████░░░   87.30 % 
-OctaveTune               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Downloads                1 hr 10 mins        ██████████████░░░░░░░░░░░   55.75 % 
+octavemusic              47 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
+OctaveTune               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 5 mins (100.0%)
 
-✍️ 61 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 188 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 988,063 Input Tokens, 9,816 Output Tokens
 
 💵 $4.51 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 18 AI Prompts
+🧠 7 AI Sessions, 28 AI Prompts
 
-Github-Copilot           50 lines            ████████████████████░░░░░   81.97 % 
-GPT                      11 lines            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Gemini                   187 lines           ███████████████████░░░░░░   75.40 % 
+Github-Copilot           50 lines            █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+GPT                      11 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 611 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📚 Verbose Prompter — average 1,657 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -175,7 +180,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:35:18 UTC
+ Last Updated on 14/08/2026 19:29:45 UTC
 <!--END_SECTION:waka-->
 
 ---
