@@ -127,43 +127,38 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 52 mins        ██████████████████████░░░   89.35 % 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               1 hr 10 mins        █████████████████████████   98.15 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████░░░░░░░░░░░░   52.80 % 
-Antigravity Desktop      59 mins             ████████████░░░░░░░░░░░░░   47.20 % 
+Antigravity Desktop      59 mins             █████████████████████░░░░   82.13 % 
+VS Code                  12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
 
 🐱‍💻 Projects: 
-Downloads                1 hr 10 mins        ██████████████░░░░░░░░░░░   55.75 % 
-octavemusic              47 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
-OctaveTune               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+octavemusic              47 mins             ████████████████░░░░░░░░░   65.75 % 
+Downloads                23 mins             ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 1 hr 12 mins (100.0%)
 
-✍️ 188 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 127 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 988,063 Input Tokens, 9,816 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $4.51 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 28 AI Prompts
+🧠 5 AI Sessions, 10 AI Prompts
 
-Gemini                   187 lines           ███████████████████░░░░░░   75.40 % 
-Github-Copilot           50 lines            █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-GPT                      11 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Gemini                   187 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,657 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,541 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -180,7 +175,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:03:24 UTC
+ Last Updated on 20/08/2026 19:11:20 UTC
 <!--END_SECTION:waka-->
 
 ---
