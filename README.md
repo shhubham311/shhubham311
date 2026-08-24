@@ -98,9 +98,9 @@ My personal portfolio — the hand-built version of who I am as a developer. &nb
 
 ### Where my coding time goes
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2053%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -127,19 +127,43 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 24 mins        ████████████████████░░░░░   81.97 % 
+Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 40 mins        ████████████████████████░   97.51 % 
+Antigravity Desktop      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mihon-fork               1 hr 25 mins        █████████████████████░░░░   82.99 % 
+Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Downloads                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+shubh                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 43 mins (100.0%)
+
+✍️ 3,021 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 691,089 Input Tokens, 150,504 Output Tokens
+
+💵 $79.82 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 27 AI Prompts
+
+Opencode-Cli             3,056 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,697 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -155,7 +179,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:22 UTC
+ Last Updated on 24/08/2026 19:10:27 UTC
 <!--END_SECTION:waka-->
 
 ---
