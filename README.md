@@ -127,43 +127,19 @@ Sunday                   14 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Kotlin                   1 hr 24 mins        ████████████████████░░░░░   81.97 % 
-Markdown                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ████████████████████████░   97.51 % 
-Antigravity Desktop      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mihon-fork               1 hr 25 mins        █████████████████████░░░░   82.99 % 
-Unknown Project          13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Downloads                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-shubh                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (100.0%)
-
-✍️ 3,021 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 691,089 Input Tokens, 150,504 Output Tokens
-
-💵 $79.82 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 27 AI Prompts
-
-Opencode-Cli             3,056 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,697 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -179,7 +155,7 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:24:23 UTC
+ Last Updated on 31/08/2026 22:59:02 UTC
 <!--END_SECTION:waka-->
 
 ---
